@@ -16,19 +16,3 @@ Class Diagram
 GUI Mockup
 
 ![GUI Mockups](Link)
-
-Start Screen
-
-![Start Screen](Link)
-
-Level Backgrounds
-
-![Grass Background](Link)
-
-Character Designs / Sprites
-
-![character sprites](Link)
-
-Brainstorming Possible Obstacles 
-
-![Brainstorming Possible Obstacles](Link)
