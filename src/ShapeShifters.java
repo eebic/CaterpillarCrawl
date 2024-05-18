@@ -49,7 +49,7 @@ class CatCrawl extends PApplet {
             textAlign(CENTER, CENTER);
             textSize(24);
             fill(255);
-            text("Welcome to SHAPESHIFTERS!\n \nUse AWSD controls for movement.\n \nPlease wait a moment,\nthen press spacebar to begin", width / 2, height/2);
+            text("Welcome to SHAPESHIFTERS!\n \nUse AWSD controls for movement.\n Reach the red circles without\n hitting the borders or yourself.\n \nPlease wait a moment,\nthen press spacebar to begin", width / 2, height/2);
         }
     }
 
