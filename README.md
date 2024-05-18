@@ -11,7 +11,7 @@ The goal of ShapeShifters is to offer players a simple but fun game for casual u
 ## UI and Logic Planning
 Class Diagram
 
-![Class Diagram](Link)
+![Class Diagram](https://github.com/eebic/ShapeShifters/blob/main/images/ShapeShifters%20Logic%20Flow%20Diagram.png?raw=true)
 
 GUI Mockup
 
