@@ -9,7 +9,7 @@ Features and Goals:
 The goal of ShapeShifters is to offer players a simple but fun game for casual use. ShapeShifters can help younger (or new) gamers gain a better understanding of basic controls and improve reaction time speed/accuracy. 
 
 ## UI and Logic Planning
-Class Diagram
+Logic Flow Diagram
 
 ![Class Diagram](https://github.com/eebic/ShapeShifters/blob/main/images/ShapeShifters%20Logic%20Flow%20Diagram.png?raw=true)
 
