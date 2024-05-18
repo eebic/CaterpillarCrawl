@@ -15,4 +15,4 @@ Class Diagram
 
 GUI Mockup
 
-![GUI Mockups]([Link](https://github.com/eebic/ShapeShifters/blob/main/images/ShapeShifters%20GUI%20Mockup.png?raw=true))
+![GUI Mockups](https://github.com/eebic/ShapeShifters/blob/main/images/ShapeShifters%20GUI%20Mockup.png?raw=true)
