@@ -1,12 +1,12 @@
-# StudySphere
+# CaterpillarCrawl
 Information on project:
 
-StudySphere is an app that will provide a place for students to monitor and motivate themselves to work. With educational tools, timed breaks, and rewards, StudySphere aims to give students the push they need to complete their tasks in a fun, interactive way.
+CaterpillarCrawl is a basic game where the goal of the caterpillar (the player) is to gather as many coins as possible without running into the borders or its own body.
 
 ## Project Objective
 Features and Goals:
 
-The goal of StudySphere is to make school less taxing and more enjoyable. StudySphere will get students in the habit of working hard in the beginning of the year to make end of year AP tests, ACT practices, and SAT study nights less stressful.
+The goal of CaterpillarCrawl is to offer players a simple but fun game for casual use. CaterpillarCrawl can help younger (or new) gamers gain a better understanding of basic controls and improve reaction time speed/accuracy. 
 
 ## UI and Logic Planning
 Class Diagram
